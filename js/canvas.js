@@ -9,8 +9,7 @@ function introduccionCanvas(){
             alert("Canvas si soportado")
         }else{
             alert("Canvas no soportado")
-        }
+     }
     }
-    
 }
 window.onload= introduccionCanvas
